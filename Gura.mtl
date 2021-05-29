@@ -1,0 +1,90 @@
+# Blender MTL File: 'Sketchfab_2020_12_03_09_08_48.blend'
+# Material Count: 8
+
+newmtl GawrGuraBody
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\LexFerreira\\Documents\\Projectos\\3d_arts\\GawrGura\\GawrGura\\GuraBody.jpg
+
+newmtl GawrGuraCostume
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\LexFerreira\\Documents\\Projectos\\3d_arts\\GawrGura\\GawrGura\\GuraCostume.jpg
+
+newmtl GawrGuraDetails
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\LexFerreira\\Documents\\Projectos\\3d_arts\\GawrGura\\GawrGura\\GuraCostumeDetails.jpg
+
+newmtl GawrGuraEyes
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\LexFerreira\\Documents\\Projectos\\3d_arts\\GawrGura\\GawrGura\\guraeyes.jpg
+
+newmtl GawrGuraHair
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\LexFerreira\\Documents\\Projectos\\3d_arts\\GawrGura\\GawrGura\\GuraHair.jpg
+
+newmtl GawrGuraHairpin
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\LexFerreira\\Documents\\Projectos\\3d_arts\\GawrGura\\GawrGura\\GuraHairpins.jpg
+
+newmtl GawrGuraHood
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\LexFerreira\\Documents\\Projectos\\3d_arts\\GawrGura\\GawrGura\\GuraHood.jpg
+
+newmtl GawrGuraShoes
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\LexFerreira\\Documents\\Projectos\\3d_arts\\GawrGura\\GawrGura\\GuraShoes.jpg
